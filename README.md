@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳
+I'm rorz, and I spend most of my time writing Javascript (Node.js, React) and thinking about web UI / UX.
+
+I'm currently working on [Verdn](https://verdn.com) — a tool for ecommerce stores to add environmental pledges to their products really easily.
 
 <!--
 **rorz/rorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
